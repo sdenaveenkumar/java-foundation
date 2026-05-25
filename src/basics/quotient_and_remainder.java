@@ -1,7 +1,5 @@
 package basics;
 
-import org.w3c.dom.ls.LSOutput;
-
 public class quotient_and_remainder {
     static void main() {
         int dividend = 5, divisor = 3;
